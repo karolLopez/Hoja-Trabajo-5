@@ -1,0 +1,4 @@
+			3.86081e+017	4.59149e-041
+Residencial	B	Casa	1300	650000
+Comercial	A	Casa	2500	2e+007
+Residencial	B	Departamento	1000	8e+007
